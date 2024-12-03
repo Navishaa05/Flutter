@@ -1,0 +1,10 @@
+#Tue Mar 05 14:31:50 IST 2024
+base.0=/home/hemangjain/Desktop/4th/DASS/dass-project-spring-2024-team-44/code/Login Signup Email Pass/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+base.1=/home/hemangjain/Desktop/4th/DASS/dass-project-spring-2024-team-44/code/Login Signup Email Pass/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
+base.2=/home/hemangjain/Desktop/4th/DASS/dass-project-spring-2024-team-44/code/Login Signup Email Pass/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
+path.0=classes.dex
+path.1=classes2.dex
+path.2=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

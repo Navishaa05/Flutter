@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384104732694",
+    "project_id": "udhar-1cfd7",
+    "storage_bucket": "udhar-1cfd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384104732694:android:330e0947ddd05cd5c33d37",
+        "android_client_info": {
+          "package_name": "com.example.udhar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdW3eQF_33lIuNmbhDporVfbYL6EX-q2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
